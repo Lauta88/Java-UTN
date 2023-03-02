@@ -1,3 +1,7 @@
 123 probando 
 modificacion desde github
+<<<<<<< HEAD
 modificacion 2 local
+=======
+modificacion 2 desde github
+>>>>>>> c351807683c4fe44e9750390f2c219153b52d5a7
